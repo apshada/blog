@@ -69,9 +69,9 @@ const Layout = ({ children }) => (
         <Content>
           <main>{children}</main>
           <Footer>
-            <GitHubLink>Linkedin</GitHubLink>
-            <GitHubLink>Instagram</GitHubLink>
-            <GitHubLink>Mail</GitHubLink>
+            <GitHubLink  href="https://www.linkedin.com/in/aditya-pratap-singh-hada-0a106b183/">Linkedin</GitHubLink>
+            <GitHubLink  href="https://instagram.com/apshada1">Instagram</GitHubLink>
+            <GitHubLink  href="mailto:apshada1@gmail.com">Mail</GitHubLink>
             
           </Footer>
         </Content>
