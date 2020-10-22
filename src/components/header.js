@@ -76,8 +76,8 @@ const Header = ({ siteTitle }) => (
   <SiteHeader>
     <Content>
       <p>
-        <HomeLink to="/">{siteTitle}</HomeLink>
-        <NavLink to="/blog">Blog</NavLink>
+        <HomeLink to="/">{siteTitle}</HomeLink> ||
+        <NavLink to="/blog">Blog</NavLink> ||
         <GitHubLink href="https://github.com/apshada">
           GitHub
         </GitHubLink>

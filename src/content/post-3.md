@@ -1,6 +1,6 @@
 ---
-title: "Code Example"
-date: "2019-06-06"
+title: "Unique String [Cracking the Coding Interview]"
+date: "2020-10-06"
 draft: false
 path: "/blog/code-example"
 ---
