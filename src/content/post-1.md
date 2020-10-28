@@ -1,45 +1,34 @@
 ---
-title: "This is such a long headline and i dont know what to write so i keep continiung"
-date: "2019-03-17"
+title: "InstaDP [Project]"
+date: "2020-06-17"
 draft: false
-path: "/blog/example-title"
----
-# H1
-
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-Paragraph
-
+path: "/blog/insta-Dp"
 ---
 
-> This is a quote
 
----
+Download Instagram profile photo 
+Android Application created using React and capacitor plugins to download instagram profile photos without login,by just typing the username
 
-[Example.com](example.com)
 
----
+# Installation
 
-`const foo = bar`
+[Github Repo](https://github.com/apshada/InstaDp)
 
-```javascript
-const foo = bar
-console.log(foo);
-```
+`git clone`
 
----
+`npm install`
 
-| Hello | World |
-|-------|------ |
-| Foo   | Bar   |
+`npx cap init`
+
+`npm start and npx cap open android`
+
+# screenshot
+<img src="https://user-images.githubusercontent.com/49001649/85232236-1bb22d80-b41b-11ea-83f3-9686d889c56a.png"  width="700" height="400">
+
+
+
+## Download 
+[<img src="https://user-images.githubusercontent.com/49001649/85232357-ece88700-b41b-11ea-90b4-c1afe7620237.jpeg"  width="50" height="50">](https://play.google.com/store/apps/details?id=com.InstaDP2020.com)
 
 
 

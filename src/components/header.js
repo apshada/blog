@@ -80,6 +80,10 @@ const Header = ({ siteTitle }) => (
         <NavLink to="/blog">Blog</NavLink> ||
         <GitHubLink href="https://github.com/apshada">
           GitHub
+        </GitHubLink> ||
+        
+        <GitHubLink href="https://www.stopstalk.com/user/profile/apshada1">
+        Competitive Programming
         </GitHubLink>
       </p>
     </Content>
